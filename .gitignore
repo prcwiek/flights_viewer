@@ -42,3 +42,6 @@ vignettes/*.pdf
 
 # Ignore all files in a directory others
 others/
+
+# Readme file
+README.Rmd
