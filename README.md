@@ -2,7 +2,7 @@ Flights viewer
 ================
 2022-04-22
 
-### Simple application in Shiny for viewing flightsover Poland using data from the OpenSky Network
+### Simple application in Shiny for viewing flights over Poland using data from the OpenSky Network
 
 #### Information about the source of data:
 
