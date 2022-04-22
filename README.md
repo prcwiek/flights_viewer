@@ -15,3 +15,5 @@ Symposium on Information Processing in Sensor Networks (IPSN), pages
 The OpenSky Network, <https://opensky-network.org>
 
 Aircraft database from <https://opensky-network.org/aircraft-database>
+
+[Link to ShinyApps](https://bit.ly/3Ovg768)
